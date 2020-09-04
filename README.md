@@ -35,6 +35,7 @@ id - id для предсказания
 
 Результаты соревнования на https://www.kaggle.com/c/recommendationsv4/leaderboard
 
+
 Выполнено:
 
 EDA
